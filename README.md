@@ -8,3 +8,7 @@ I am a Business major at the University of Oregon. Taking CIT 281.
   -[Project 2](https://github.com/UO-CIT/project-2-tahamir79)  (Learnt about API's)
 
   -Project 3 (Learnt about Git hub User pages)
+
+  -Project 4 (Object Oriented Programing)
+
+  -Project 5 (RESTful app)
