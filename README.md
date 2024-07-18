@@ -1,4 +1,4 @@
-Master of Science in Applied Statistics
+### Master of Science in Applied Statistics
 
 ### CIT 281 Projects
   -Project 1 (Learnt about for loops and foreach method and dice rolling)
