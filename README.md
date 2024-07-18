@@ -3,7 +3,7 @@
 ## Education
 - M.S., Applied Statistics | Loyola University Chicago (_Dec 2024_)
 - B.S., Operations and Business Analytics | University of Oregon (_March 2023_)
-- 
+ 
 ### CIT 281 Projects
   -Project 1 (Learnt about for loops and foreach method and dice rolling)
 
@@ -13,6 +13,4 @@
 
   -Project 4 (Object Oriented Programing)
 
-  -Project 5 (RESTful app)
-
-  ** intern
+  -Project 5 (RESTful app)** intern
