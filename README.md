@@ -1,6 +1,4 @@
-## Taha Mirghorbani
-
-I am a Business major at the University of Oregon. Taking CIT 281.
+Master of Science in Applied Statistics
 
 ### CIT 281 Projects
   -Project 1 (Learnt about for loops and foreach method and dice rolling)
