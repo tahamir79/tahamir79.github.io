@@ -1,4 +1,4 @@
-# Master of Science in Applied Statistics
+# Work Portfolio
 
 ## Education
 - M.S., Applied Statistics | Loyola University Chicago (_Dec 2024_)
