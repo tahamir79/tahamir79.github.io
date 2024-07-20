@@ -2,6 +2,7 @@
 
 ## Education
 - M.S., Applied Statistics | Loyola University Chicago (_Dec 2024_)
+
 - B.S., Operations and Business Analytics | University of Oregon (_March 2023_)
  
 ### CIT 281 Projects
