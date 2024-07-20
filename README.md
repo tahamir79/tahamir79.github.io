@@ -7,7 +7,7 @@
  
 ### Current Role: Statistical Researcher at College of Math and Statistics
 
-## (_Projects_)
+## _Projects_
 ### CIT 281 Projects
   -Project 1 (Learnt about for loops and foreach method and dice rolling)
 
