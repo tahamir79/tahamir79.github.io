@@ -1,12 +1,13 @@
 # Work Portfolio
 
 ## Education
-- M.S., Applied Statistics | Loyola University Chicago (_Dec 2024_)
+- M.S., Applied Statistics | Loyola University Chicago (_Dec 24'_)
 
-- B.S., Operations & Business Analytics | University of Oregon (_March 2023_)
+- B.S., Operations & Business Analytics | University of Oregon (_March 23'_)
  
-## Current Role: Statistical Researcher at College of Math and Statistics
+### Current Role: Statistical Researcher at College of Math and Statistics
 
+## (_Projects_)
 ### CIT 281 Projects
   -Project 1 (Learnt about for loops and foreach method and dice rolling)
 
@@ -19,4 +20,4 @@
   -Project 5 (RESTful app)
   
   
-  ** intern **
+  **intern**
