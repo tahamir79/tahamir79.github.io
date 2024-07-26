@@ -9,6 +9,16 @@
 **Full-Ride graduate scholar**
 
 ## _Projects_
+
+### Tetris!
+<iframe src="https://codesandbox.io/embed/r34h6h?view=editor+%2B+preview&module=%2Fsrc%2Findex.js"
+     style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="hello (forked)"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
+
+   
 ### Computer Info Tech minor:
   - Covered key topics such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, and network security principles.
   - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
