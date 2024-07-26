@@ -10,15 +10,6 @@
 
 ## _Projects_
 
-### Tetris!
-
-<iframe src="https://codesandbox.io/embed/r34h6h?view=preview&module=%2Fsrc%2Findex.js"
-     style="width:600px; height: 700px; border:0; border-radius: 4px; overflow:hidden;"
-     title="hello (forked)"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
 
  <a href="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" target="_blank">
   <img src="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" alt="CIT_minor_Certificate" width="300">
