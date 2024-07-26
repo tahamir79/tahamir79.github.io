@@ -22,3 +22,9 @@
   
   
   **intern**
+
+
+### Data Services
+**Quantitative Research Methods Consultant**
+[blog](https://dataservices.uoregon.edu/author/taham/)
+
