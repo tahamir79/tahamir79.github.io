@@ -10,15 +10,9 @@
 
 ## _Projects_
 ### Computer Info Tech minor:
-  -Project 1 (Learnt about for loops and foreach method and dice rolling)
+  - Covered key topics such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, and network security principles.
+  - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
 
-  -[Project 2](https://github.com/UO-CIT/project-2-tahamir79)  (Learnt about API's)
-
-  -Project 3 (Learnt about Git hub User pages)
-
-  -Project 4 (Object Oriented Programing)
-
-  -Project 5 (RESTful app)
   
   
   **intern**
