@@ -13,7 +13,10 @@
   - Covered key topics such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, and network security principles.
   - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
 
-  
+
+<a href="path/to/large-image.jpg" target="_blank">
+  <img src="path/to/thumbnail.jpg" alt="Description" width="300">
+</a>
   
   **intern**
 
@@ -22,3 +25,9 @@
 _Quantitative Research Methods Consultant_
 [blog](https://dataservices.uoregon.edu/author/taham/)
 
+
+
+
+
+### Check my EDM production:
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1823863209&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/taha-mirghorbani" title="21Fibonacci" target="_blank" style="color: #cccccc; text-decoration: none;">21Fibonacci</a> · <a href="https://soundcloud.com/taha-mirghorbani/shinobi-1" title="Shinobi" target="_blank" style="color: #cccccc; text-decoration: none;">Shinobi</a></div>
