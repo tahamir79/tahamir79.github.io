@@ -14,8 +14,8 @@
   - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
 
 
-<a href="path/to/large-image.jpg" target="_blank">
-  <img src="path/to/thumbnail.jpg" alt="Description" width="300">
+<a href="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" target="_blank">
+  <img src="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" alt="CIT_minor_Certificate" width="300">
 </a>
   
   **intern**
