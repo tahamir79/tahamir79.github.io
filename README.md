@@ -25,6 +25,6 @@
 
 
 ### Data Services
-**Quantitative Research Methods Consultant**
+_Quantitative Research Methods Consultant_
 [blog](https://dataservices.uoregon.edu/author/taham/)
 
