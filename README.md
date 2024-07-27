@@ -21,7 +21,7 @@
 
 ### Office of the Vice President for Finance and Administration - University of Oregon
   **VPFA intern**
-  - Designed data pipelines to display reak time KPI's on dashboards that reduced costs by 33% (Campus Planning and Facility Management Office)
+  - Designed data pipelines to display real time KPI's on dashboards that reduced costs by 33% (Campus Planning and Facility Management Office)
   - Revolutionized the screening process for University Owned artwork by revamping the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
 
 
