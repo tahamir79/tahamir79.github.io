@@ -19,7 +19,10 @@
   - Covered key topics such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, and network security principles.
   - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
 
-  **intern**
+### Office of the Vice President for Finance and Administration - University of Oregon
+  **VPFA intern**
+  - Designed data pipelines to display reak time KPI's on dashboards that reduced costs by 33% (Campus Planning and Facility Management Office)
+  - Revolutionized the screening process for University Owned artwork by revamping the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
 
 
 ### Data Services
