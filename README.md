@@ -18,9 +18,11 @@
 ## Computer Info Tech minor:
  - Covered key topics for six-courses such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, and network security principles.
  - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
+
+ [![Thumbnail of PDF document](thumbnail.png)](document.pdf)
  
 ### Current Role: Statistical Researcher at College of Math and Statistics 
-**Full-Ride graduate scholar**
+**_Full-Ride graduate scholar_**
  -  Utilized Excel, R, and SAS to learn about logistic models, simulations like Monte Carlo, and survival analysis.
  -  Conducted research on socio-demographic data from Chicago and created data art using data visualization techniques.
  -  Developed research models and completed pose estimation projects using Python programming language.
@@ -29,7 +31,7 @@
 ## _Past Collaborations_
 
 ## Office of the Vice President for Finance and Administration - University of Oregon
-  **-VPFA intern-**
+**_VPFA intern_**
  - Designed data pipelines to display real time KPI's on dashboards that reduced operational costs by 1/3 (Campus Planning and Facility Management Office)
  - Revolutionized the screening process for University Owned artwork by revamping the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
 
