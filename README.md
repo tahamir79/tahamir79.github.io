@@ -27,7 +27,9 @@
 
 ## Data Services
 _Quantitative Research Methods Consultant_
-[blog](https://dataservices.uoregon.edu/author/taham/)
+•	Provided statistical consultations to the U of O’s research faculty and students on using R, Python, Excel, Tableau, SPSS, etc. to create descriptive statistics, perform and interpret statistical tests, develop data visualizations, and create statistical models.
+•	Reinvented the Search Engine Optimization for the [blog](https://dataservices.uoregon.edu/author/taham/)and tripled the follower retention for Twitter and Instagram accounts.
+•	Led the following Workshops: * Programming with Python * Data Analysis and Visualization in Python * Programming with R
 
 
 ## Tetris!
