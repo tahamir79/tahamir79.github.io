@@ -9,20 +9,19 @@
 - M.S., Applied Statistics | Loyola University Chicago (_Dec 24'_)
 
 - B.S., Operations & Business Analytics | University of Oregon (_March 23'_)
- 
-### Current Role: Statistical Researcher at College of Math and Statistics 
-**Full-Ride graduate scholar**
 
-## _Projects_
-
-
- <a href="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" target="_blank">
+<a href="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" target="_blank">
   <img src="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" alt="CIT_minor_Certificate" width="300">
 </a>  
 
 ## Computer Info Tech minor:
  - Covered key topics for six-courses such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, and network security principles.
  - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
+ 
+### Current Role: Statistical Researcher at College of Math and Statistics 
+**Full-Ride graduate scholar**
+
+## _Past Collaborations_
 
 ## Office of the Vice President for Finance and Administration - University of Oregon
   **-VPFA intern-**
