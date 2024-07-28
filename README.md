@@ -52,5 +52,5 @@ _tetris has stress-reduction effects [source](https://www.ncbi.nlm.nih.gov/pmc/a
 
 
 <div style="text-align: right;">
-  <a href="#top" style="padding: 10px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">Jump to Top</a>
+  <a href="#top" style="padding: 8px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">Jump to Top</a>
 </div>
