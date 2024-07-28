@@ -21,6 +21,10 @@
  
 ### Current Role: Statistical Researcher at College of Math and Statistics 
 **Full-Ride graduate scholar**
+ -  Utilized Excel, R, and SAS to learn about logistic models, simulations like Monte Carlo, and survival analysis.
+ -  Conducted research on socio-demographic data from Chicago and created data art using data visualization techniques.
+ -  Developed research models and completed pose estimation projects using Python programming language.
+
 
 ## _Past Collaborations_
 
