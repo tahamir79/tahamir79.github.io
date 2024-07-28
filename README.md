@@ -1,6 +1,9 @@
 # Work Portfolio
 #### Technical Skills: React.js, R, Python
-[![LinkedIn Profile](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png)](https://www.linkedin.com/in/mirghorbani-t/)
+
+<a href="https://www.linkedin.com/in/mirghorbani-t/">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" alt="LinkedIn" width="50" height="50">
+</a>
 
 ## Education
 - M.S., Applied Statistics | Loyola University Chicago (_Dec 24'_)
