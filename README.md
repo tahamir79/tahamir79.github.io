@@ -20,13 +20,13 @@
  - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
 
 ## Office of the Vice President for Finance and Administration - University of Oregon
-  **VPFA intern**
+  **-VPFA intern-**
  - Designed data pipelines to display real time KPI's on dashboards that reduced costs by 33% (Campus Planning and Facility Management Office)
  - Revolutionized the screening process for University Owned artwork by revamping the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
 
 
 ## Data Services
-_Quantitative Research Methods Consultant_
+**_Quantitative Research Methods Consultant_**
  -	Provided statistical consultations to the U of O’s research faculty and students on using R, Python, Excel, Tableau, SPSS, etc. to create descriptive statistics, perform and interpret statistical tests, develop data visualizations, and create statistical models.
  -	Reinvented the Search Engine Optimization for the [blog](https://dataservices.uoregon.edu/author/taham/)and tripled the follower retention for Twitter and Instagram accounts.
  -	Led the following Workshops: * Programming with Python * Data Analysis and Visualization in Python * Programming with R
