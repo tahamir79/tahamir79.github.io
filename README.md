@@ -80,7 +80,7 @@
  - Conducted statistical analysis using High-Performance computing to optimize algorithms in R programming language and held weekly meetings with Professors and Ph.D mentors.
  - Bolstered the Nielsen demographic data with WARN data scraped from each of 52 states’ websites using Python and Excel.
 
-## Operations and Business Analytics (OBAC)
+## Operations and Business Analytics Club (OBAC)[https://obac.uoregon.edu/]
 **President-elect**  
 *Sep. 2021 – March 2023*  
  - Made executive decisions, managed outreach to alumni, and hosted talks by industry professionals.
