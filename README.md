@@ -18,8 +18,6 @@
 ## Computer Info Tech minor:
  - Covered key topics for six-courses such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, and network security principles.
  - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
-
- [![Thumbnail of PDF document](thumbnail.png)](document.pdf)
  
 ### Current Role: Statistical Researcher at College of Math and Statistics 
 **_Full-Ride graduate scholar_**
