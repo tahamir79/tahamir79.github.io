@@ -7,7 +7,7 @@
 </a>
 
 ## Education
-- M.S., Applied Statistics | Loyola University Chicago (_Dec 24'_)
+- M.S., Applied Statistics              | Loyola University Chicago (_Dec 24'_)
 
 - B.S., Operations & Business Analytics | University of Oregon (_March 23'_)
 
