@@ -2,4 +2,4 @@ title: Taha Mirghorbani
 logo: assets/photo_2024-07-17_21-48-58-modified.png
 description: My name is Taha Mirghorbani, and I am currently pursuing a Masters of Science degree at Loyola Chicago University. I am a motivated and natural born leader who is not afraid to challenge the status qou in a perpetual search for better ways to get things done 
 #show_downloads: true
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
