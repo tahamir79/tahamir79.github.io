@@ -35,18 +35,9 @@
  - Designed data pipelines to display real time KPI's on dashboards that reduced operational costs by 1/3 (Campus Planning and Facility Management Office)
  - Revolutionized the screening process for University Owned artwork by revamping the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
 
-## Data Services
-**_Quantitative Research Methods Consultant_**
- - Provided statistical consultations to the U of O’s research faculty and students on using R, Python, Excel, Tableau, SPSS, etc. to create descriptive statistics, perform and interpret statistical tests, develop data visualizations, and create statistical models.
- - Reinvented the Search Engine Optimization for the [blog](https://dataservices.uoregon.edu/author/taham/) and tripled the follower retention for Twitter and Instagram accounts.
- - Led the following Workshops:
-   * Programming with Python
-   * Data Analysis and Visualization in Python
-   * Programming with R
-
-## Data Services
-**_Quantitative Research Methods Consultant_** (U of O)  
-*Dates*  
+## Data Services Division - University of Oregon Libraries
+**_Quantitative Research Methods Consultant_**  
+*Dec 2020 – Dec. 2022*   
  - Provided statistical consultations to the U of O’s research faculty and students on using R, Python, Excel, Tableau, SPSS, etc. to create descriptive statistics, perform and interpret statistical tests, develop data visualizations, and create statistical models.
  - Reinvented the Search Engine Optimization for the [blog](https://dataservices.uoregon.edu/author/taham/) and tripled the follower retention for Twitter and Instagram accounts.
  - Led the following Workshops:
@@ -73,18 +64,11 @@
  - Attended training on funds management and oversaw the Lorax Manor Student housing budget.
  - Received training on conflict resolution and served as the liaison.
 
-## Operations and Business Analytics (OBAC)
-**President-elect**  
-*Sep. 2021 – March 2023*  
- - Made executive decisions, managed outreach to alumni, and hosted talks by industry professionals.
- - Brainstormed with club fund management and pitched ideas to best serve the student members professionally.
- - Taught Python and SQL programming as part of the club agenda to bolster the technical skills for the members.
-
-## Research Lab of Head of Finance Department, Professor John Chalmers
-**Equity Research Analyst**  
-*Nov. 2022 – March 2023*  
- - Conducted statistical analysis using High-Performance computing to optimize algorithms in R programming language and held weekly meetings with Professors and Ph.D mentors.
- - Bolstered the Nielsen demographic data with WARN data scraped from each of 52 states’ websites using Python and Excel.
+## Sustainable Cities Institute
+**Research Assistant** (Remote)  
+*Feb. 2022 – April 2022*  
+ - Utilized Qualtrics© APIs and React.Js to design an online evaluation tool for the “Shared Mobility Equity Research” project funded by the National Institution of Transportation Communities (NITC) that provides feedback to transportation agencies.
+ - Studied the research project’s findings in the original evaluation tool hosted on Qualtrics.
 
 ## GENSCO Inc.
 **Operations Management Intern** (Full-time)  
@@ -92,11 +76,19 @@
  - Shadowed corporate employees in Information Technology, Supply chain Operations to learn about facility management services.
  - Worked on a final project that involved gathering data, analyzing, and implementing to improve safety protocols.
 
-## Sustainable Cities Institute
-**Research Assistant** (Remote)  
-*Feb. 2022 – April 2022*  
- - Utilized Qualtrics© APIs and React.Js to design an online evaluation tool for the “Shared Mobility Equity Research” project funded by the National Institution of Transportation Communities (NITC) that provides feedback to transportation agencies.
- - Studied the research project’s findings in the original evaluation tool hosted on Qualtrics.
+## Research Lab of Head of Finance Department, Professor John Chalmers
+**Equity Research Analyst**  
+*Nov. 2022 – March 2023*  
+ - Conducted statistical analysis using High-Performance computing to optimize algorithms in R programming language and held weekly meetings with Professors and Ph.D mentors.
+ - Bolstered the Nielsen demographic data with WARN data scraped from each of 52 states’ websites using Python and Excel.
+
+## Operations and Business Analytics (OBAC)
+**President-elect**  
+*Sep. 2021 – March 2023*  
+ - Made executive decisions, managed outreach to alumni, and hosted talks by industry professionals.
+ - Brainstormed with club fund management and pitched ideas to best serve the student members professionally.
+ - Taught Python and SQL programming as part of the club agenda to bolster the technical skills for the members.
+
 
 
 ## Tetris!
