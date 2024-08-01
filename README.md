@@ -43,6 +43,8 @@
    * Data Analysis and Visualization in Python
    * Programming with R
 
+
+<img src="https://static.wixstatic.com/media/f0d618_54eb458005d14d249f736c84a4d9dec9~mv2.png/v1/crop/x_15,y_0,w_1072,h_151/fill/w_384,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-renovatio-horizontal.png" alt="Renovatio Logo" width="384" height="54">
 ## Renovatio (NGO)
 **Business Consultation Intern** (Remote)  
 *Sept 2020 – Dec. 2020*  
