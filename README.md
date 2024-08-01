@@ -82,12 +82,12 @@
  - Conducted statistical analysis using High-Performance computing to optimize algorithms in R programming language and held weekly meetings with Professors and Ph.D mentors.
  - Bolstered the Nielsen demographic data with WARN data scraped from each of 52 states’ websites using Python and Excel.
 
-## Operations and Business Analytics Club (OBAC)[https://obac.uoregon.edu/]
+## Operations and Business Analytics Club (OBAC)
 **President-elect**  
 *Sep. 2021 – March 2023*  
  - Made executive decisions, managed outreach to alumni, and hosted talks by industry professionals.
  - Brainstormed with club fund management and pitched ideas to best serve the student members professionally.
- - Taught Python and SQL programming as part of the club agenda to bolster the technical skills for the members.
+ - Taught Python and SQL programming as part of the [club](https://obac.uoregon.edu/) agenda to bolster the technical skills for the members.
 
 
 
