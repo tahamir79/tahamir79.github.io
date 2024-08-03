@@ -28,6 +28,9 @@
 
 ## _Past Collaborations_
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vXXXXXX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 ## Office of the Vice President for Finance and Administration - University of Oregon
 **_VPFA intern_**
  - Designed data pipelines to display real time KPI's on dashboards that reduced operational costs by 1/3 (Campus Planning and Facility Management Office)
@@ -45,6 +48,7 @@
 
 
 <img src="https://static.wixstatic.com/media/f0d618_54eb458005d14d249f736c84a4d9dec9~mv2.png/v1/crop/x_15,y_0,w_1072,h_151/fill/w_384,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-renovatio-horizontal.png" alt="Renovatio Logo" width="384" height="54">
+
 ## Renovatio (NGO)
 **Business Consultation Intern** (Remote)  
 *Sept 2020 – Dec. 2020*  
@@ -90,7 +94,7 @@
  - Taught Python and SQL programming as part of the [club](https://obac.uoregon.edu/) agenda to bolster the technical skills for the members.
 
 
-
+<!--
 ## Tetris!
 
 <iframe src="https://codesandbox.io/embed/r34h6h?view=preview&module=%2Fsrc%2Findex.js"
@@ -100,7 +104,7 @@
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
    ></iframe>
 _tetris has stress-reduction effects [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7828932/)_
-
+-->
 
 
 
