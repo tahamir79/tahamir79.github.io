@@ -11,6 +11,14 @@
 
 - B.S., Operations & Business Analytics | University of Oregon (_March 23'_)
 
+ 
+### Current Role: Statistical Researcher at College of Math and Statistics 
+**_Full-Ride graduate scholar_**
+ -  Utilized Excel, R, and SAS to learn about logistic models, permutation tests, and simulations like such as Monte Carlo.
+ -  Conducted research on socio-demographic data from Chicago and created data art using data visualization techniques.
+ -  Developed research models and completed pose estimation projects using Python programming language.
+
+
 <a href="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" target="_blank">
   <img src="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" alt="CIT_minor_Certificate" width="275">
 </a>  
@@ -18,12 +26,6 @@
 ## Computer Info Tech minor:
  - Covered key topics for six-courses such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, and network security principles.
  - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
- 
-### Current Role: Statistical Researcher at College of Math and Statistics 
-**_Full-Ride graduate scholar_**
- -  Utilized Excel, R, and SAS to learn about logistic models, permutation tests, and simulations like such as Monte Carlo.
- -  Conducted research on socio-demographic data from Chicago and created data art using data visualization techniques.
- -  Developed research models and completed pose estimation projects using Python programming language.
 
 ## _Projects:_
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJCn8IEkMuPrK-yjtetQp4YV__HZoJP7RqufHGN9P_KgZ5hpXSSc-wUXKbeUIXiYXrR9ASGMic_65g/embed?start=true&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
