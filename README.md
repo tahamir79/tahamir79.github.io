@@ -25,10 +25,10 @@
  -  Conducted research on socio-demographic data from Chicago and created data art using data visualization techniques.
  -  Developed research models and completed pose estimation projects using Python programming language.
 
-
-## _Past Collaborations_
-
+## _Projects:_
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJCn8IEkMuPrK-yjtetQp4YV__HZoJP7RqufHGN9P_KgZ5hpXSSc-wUXKbeUIXiYXrR9ASGMic_65g/embed?start=true&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## _Past Collaborations:_
 
 ## Office of the Vice President for Finance and Administration - University of Oregon
 **_VPFA intern_**
@@ -73,11 +73,11 @@
  - Utilized Qualtrics© APIs and React.Js to design an online evaluation tool for the “Shared Mobility Equity Research” project funded by the National Institution of Transportation Communities (NITC) that provides feedback to transportation agencies.
  - Studied the research project’s findings in the original evaluation tool hosted on Qualtrics.
 
-## GENSCO Inc.
+## GENSCO Inc. Seattle
 **Operations Management Intern** (Full-time)  
 *June 2022 – Sep. 2022*  
  - Shadowed corporate employees in Information Technology, Supply chain Operations to learn about facility management services.
- - Worked on a final project that involved gathering data, analyzing, and implementing to improve safety protocols.
+ - Worked on a final project that involved gathering data, analyzing, and implementing to improve safety protocols at HVAC storage plant.
 
 ## Research Lab of Head of Finance Department, Professor John Chalmers
 **Equity Research Analyst**  
@@ -93,7 +93,7 @@
  - Taught Python and SQL programming as part of the [club](https://obac.uoregon.edu/) agenda to bolster the technical skills for the members.
 
 
-<!--
+
 ## Tetris!
 
 <iframe src="https://codesandbox.io/embed/r34h6h?view=preview&module=%2Fsrc%2Findex.js"
@@ -103,7 +103,6 @@
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
    ></iframe>
 _tetris has stress-reduction effects [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7828932/)_
--->
 
 
 
