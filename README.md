@@ -12,7 +12,7 @@
 - B.S., Operations & Business Analytics | University of Oregon (_March 23'_)
 
 <a href="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" target="_blank">
-  <img src="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" alt="CIT_minor_Certificate" width="300">
+  <img src="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" alt="CIT_minor_Certificate" width="275">
 </a>  
 
 ## Computer Info Tech minor:
