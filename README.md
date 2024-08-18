@@ -30,10 +30,9 @@
 ## _Projects:_
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJCn8IEkMuPrK-yjtetQp4YV__HZoJP7RqufHGN9P_KgZ5hpXSSc-wUXKbeUIXiYXrR9ASGMic_65g/embed?start=true&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## _Professional Collaborations:_
+## Work Experience:
 
-## Office of the Vice President for Finance and Administration - University of Oregon
-**_VPFA intern_**
+**Intern @ Office of the Senior Vice President for Finance and Administration - University of Oregon**
  - Designed data pipelines to display real time KPI's on dashboards that reduced operational costs by 1/3 (Campus Planning and Facility Management Office)
  - Revolutionized the screening process for University Owned artwork by revamping the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
 
