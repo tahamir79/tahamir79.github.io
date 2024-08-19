@@ -27,11 +27,11 @@
  - Covered key topics for six-courses such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, and network security principles.
  - Designed and developed a sentimentally aware online shopping website using large language models to analyze customer reviews and feedback. Implemented sentiment analysis algorithms to improve user experience and increase sales conversion rates through personalized product recommendations and targeted marketing strategies.
 
-<!--
+
 ## _Projects:_
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJCn8IEkMuPrK-yjtetQp4YV__HZoJP7RqufHGN9P_KgZ5hpXSSc-wUXKbeUIXiYXrR9ASGMic_65g/embed?start=true&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
--->
+
 ## Work Experience:
 
 **Intern @ Office of the Senior Vice President for Finance and Administration - University of Oregon**
@@ -96,7 +96,6 @@
  - Taught Python and SQL programming as part of the [club](https://obac.uoregon.edu/) agenda to bolster the technical skills for the members.
 
 
-<--
 ## Tetris!
 
 <iframe src="https://codesandbox.io/embed/r34h6h?view=preview&module=%2Fsrc%2Findex.js"
@@ -113,4 +112,4 @@ _tetris has stress-reduction effects [source](https://www.ncbi.nlm.nih.gov/pmc/a
 <div style="text-align: right;">
   <a href="#top" style="padding: 8px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">Jump to Top</a>
 </div>
--->
+
