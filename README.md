@@ -1,6 +1,6 @@
 <a name="top"></a>
 # Data Scientist
-#### Technical Skills: React.js, R, Python
+#### Technical Skills: R, Python, JavaScript
 
 <a href="https://www.linkedin.com/in/mirghorbani-t/">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" alt="LinkedIn" width="35" height="35">
