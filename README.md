@@ -1,5 +1,5 @@
 <a name="top"></a>
-# Work Portfolio
+# Data Scientist
 #### Technical Skills: React.js, R, Python
 
 <a href="https://www.linkedin.com/in/mirghorbani-t/">
