@@ -3,5 +3,7 @@ logo: assets/photo_2024-07-17_21-48-58-modified.png
 description: My name is Taha Mirghorbani, and I am a Lundquist College of Business graduate who is currently pursuing a Masters of Science in Applied Statistics at Loyola Chicago University college of Math and Statistics with a research emphasis on data visualization using GenAi. 
 #show_downloads: true
 theme: jekyll-theme-minimal
-social:
-  linkedin: mirghorbani-t
+author:
+  email: tmirghorbani@luc.edu
+  linkedin: mirghorbani-t    # Your LinkedIn ID
+
