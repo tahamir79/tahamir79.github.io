@@ -14,6 +14,7 @@
  
 ### Current Role: Statistical Researcher at College of Math and Statistics - Loyola University Chicago
 **_Graduate Assistant_**
+*Sep 2021 – May 2022*
  -  Utilized Excel, R, and SAS to master machine learning models such as logistic models, permutation tests, and simulations like such as Monte Carlo.
  -  Conducted research on socio-demographic data from Chicago and created data art using data visualization techniques.
  -  Developed research models and completed pose estimation projects using Python programming language.
