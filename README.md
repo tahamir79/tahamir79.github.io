@@ -37,7 +37,8 @@
 Intern @ Office of the Senior Vice President for Finance and Administration - University of Oregon**
  - Designed data pipelines to display real time KPI's on dashboards that reduced operational costs by 1/3 (Campus Planning and Facility Management Office)
  - Revolutionized the screening process for University Owned artwork by revamping the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
-<br>
+
+
 ## Data Services Division - University of Oregon Libraries
 **_Quantitative Research Methods Consultant_**  
 *Dec 2020 – Dec. 2022*   
@@ -58,11 +59,13 @@ Intern @ Office of the Senior Vice President for Finance and Administration - Un
  - Analyzed financial records to determine appropriate capital allocation for proposed solutions according to increases in income.
  - Presented strategies and ideas through weekly briefing memoranda and meetings with senior management. The internship concluded with a final proposal presentation, which received very positive feedback from our client.
 
+
 ## University of Oregon Student Government (ASUO-Legislative Branch)
 **Departments Finance Committee, Legislative Branch, Seat 03**  
 *Jan. 2021 – May 2021*  
  - Worked within a group of financial legislators to make budget recommendations under the committee’s jurisdiction.
  - Attended committee meetings, hearings, and officer training; held weekly office hours; communicated with committee members and acted as a communication liaison within ASUO (Associated Students of the University of Oregon).
+
 
 ## Student Cooperative Association
 **Treasurer / Conflict Resolution Team**  
@@ -70,11 +73,13 @@ Intern @ Office of the Senior Vice President for Finance and Administration - Un
  - Attended training on funds management and oversaw the Lorax Manor Student housing budget.
  - Received training on conflict resolution and served as the liaison.
 
+
 ## Sustainable Cities Institute
 **Research Assistant** (Remote)  
 *Feb. 2022 – April 2022*  
  - Utilized Qualtrics© APIs and React.Js to design an online evaluation tool for the “Shared Mobility Equity Research” project funded by the National Institution of Transportation Communities (NITC) that provides feedback to transportation agencies.
  - Studied the research project’s findings in the original evaluation tool hosted on Qualtrics.
+
 
 ## GENSCO Inc. Seattle
 **Operations Management Intern** (Full-time)  
@@ -82,11 +87,13 @@ Intern @ Office of the Senior Vice President for Finance and Administration - Un
  - Shadowed corporate employees in Information Technology, Supply chain Operations to learn about facility management services.
  - Worked on a final project that involved gathering data, analyzing, and implementing to improve safety protocols at HVAC storage plant.
 
+
 ## Research Lab of Head of Finance Department, Professor John Chalmers
 **Equity Research Analyst**  
 *Nov. 2022 – March 2023*  
  - Conducted statistical analysis using High-Performance computing to optimize algorithms in R programming language and held weekly meetings with Professors and Ph.D mentors.
  - Bolstered the Nielsen demographic data with WARN data scraped from each of 52 states’ websites using Python and Excel.
+
 
 ## Operations and Business Analytics Club (OBAC)
 **President-elect**  
@@ -96,10 +103,11 @@ Intern @ Office of the Senior Vice President for Finance and Administration - Un
  - Taught Python and SQL programming as part of the [club](https://obac.uoregon.edu/) agenda to bolster the technical skills for the members.
 
 
+
 ## Tetris!
 
 <iframe src="https://codesandbox.io/embed/r34h6h?view=preview&module=%2Fsrc%2Findex.js"
-     style="width: 85%; height: 870px; border: 0; border-radius: 4px; overflow: hidden;"
+     style="width: 80%; height: 870px; border: 0; border-radius: 4px; overflow: hidden;"
      title="Tetris Game"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
