@@ -12,8 +12,8 @@
 - B.S., Operations & Business Analytics | University of Oregon (_March 23'_)
 
  
-### Current Role: Statistical Researcher at College of Math and Statistics - Loyola University Chicago
-**_Graduate Assistant_**
+### Currently at College of Math and Statistics - Loyola University Chicago
+**_Graduate Researcher in Ai_**
 
 *August 2023 – Dec 2024 (conferred)*
  -  Utilized Excel, R, and SAS to master machine learning models such as logistic models, permutation tests, and simulations like such as Monte Carlo.
