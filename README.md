@@ -39,7 +39,7 @@
 
 *Sep 2021 – May 2022*
  - Designed data pipelines to display real time KPI's on dashboards that reduced operational costs by 1/3 (Campus Planning and Facility Management Office)
- - Revolutionized the screening process for University Owned artwork by revamping the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
+ - Digitized the screening process for University Owned artwork by reinventing the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
  
 
 ## Data Services Division - University of Oregon Libraries
