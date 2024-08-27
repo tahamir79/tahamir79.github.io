@@ -34,7 +34,7 @@
 -->
 ## Work Experience:
 
-## Office of the Senior Vice President for Finance and Administration - University of Oregon
+## Office of the Vice President for Finance and Administration - University of Oregon
 **_Finance and Admin. Intern_**
 
 *Sep 2021 – May 2022*
