@@ -29,9 +29,9 @@
 
 
 ## _Projects:_
-
+<!--
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJCn8IEkMuPrK-yjtetQp4YV__HZoJP7RqufHGN9P_KgZ5hpXSSc-wUXKbeUIXiYXrR9ASGMic_65g/embed?start=true&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+-->
 ## Work Experience:
 
 **Intern @ Office of the Senior Vice President for Finance and Administration - University of Oregon**
