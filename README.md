@@ -13,7 +13,7 @@
 
  
 ### Currently at College of Math and Statistics - Loyola University Chicago
-**_Graduate Researcher_**(full-time)
+**_Graduate Researcher_** (full-time)
 
 *August 2023 – Dec 2024 (conferred)*
  -  Utilized Excel, R, and SAS to master machine learning models such as logistic models, permutation tests, and simulations like such as Monte Carlo.
@@ -58,7 +58,7 @@
 <img src="https://static.wixstatic.com/media/f0d618_54eb458005d14d249f736c84a4d9dec9~mv2.png/v1/crop/x_15,y_0,w_1072,h_151/fill/w_384,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-renovatio-horizontal.png" alt="Renovatio Logo" width="384" height="54">
 
 ## Renovatio (NGO)
-**Business Consultation Intern** (Remote)  
+**_Business Consultation Intern_** (Remote)  
 *Sept 2020 – Dec. 2020*  
  - Worked remotely alongside a team of honors students as business consultants for a Brazilian eyecare NGO to devise solutions for their challenges generating international funding.
  - Analyzed financial records to determine appropriate capital allocation for proposed solutions according to increases in income.
@@ -66,42 +66,42 @@
 
 
 ## University of Oregon Student Government (ASUO-Legislative Branch)
-**Departments Finance Committee, Legislative Branch, Seat 03**  
+**_Departments Finance Committee, Legislative Branch, Seat 03_**  
 *Jan. 2021 – May 2021*  
  - Worked within a group of financial legislators to make budget recommendations under the committee’s jurisdiction.
  - Attended committee meetings, hearings, and officer training; held weekly office hours; communicated with committee members and acted as a communication liaison within ASUO (Associated Students of the University of Oregon).
 
 
 ## Student Cooperative Association
-**Treasurer / Conflict Resolution Team**  
+**_Treasurer / Conflict Resolution Team_**  
 *Jan. 2021 – Present*  
  - Attended training on funds management and oversaw the Lorax Manor Student housing budget.
  - Received training on conflict resolution and served as the liaison.
 
 
 ## Sustainable Cities Institute
-**Research Assistant** (Remote)  
+**_Research Assistant_** (Remote)  
 *Feb. 2022 – April 2022*  
  - Utilized Qualtrics© APIs and React.Js to design an online evaluation tool for the “Shared Mobility Equity Research” project funded by the National Institution of Transportation Communities (NITC) that provides feedback to transportation agencies.
  - Studied the research project’s findings in the original evaluation tool hosted on Qualtrics.
 
 
 ## GENSCO Inc. Seattle
-**Operations Management Intern** (Full-time)  
+**_Operations Management Intern_** (Full-time)  
 *June 2022 – Sep. 2022*  
  - Shadowed corporate employees in Information Technology, Supply chain Operations to learn about facility management services.
  - Worked on a final project that involved gathering data, analyzing, and implementing to improve safety protocols at HVAC storage plant.
 
 
 ## Research Lab of Head of Finance Department, Professor John Chalmers
-**Equity Research Analyst**  
+**_Equity Research Analyst_**  
 *Nov. 2022 – March 2023*  
  - Conducted statistical analysis using High-Performance computing to optimize algorithms in R programming language and held weekly meetings with Professors and Ph.D mentors.
  - Bolstered the Nielsen demographic data with WARN data scraped from each of 52 states’ websites using Python and Excel.
 
 
 ## Operations and Business Analytics Club (OBAC)
-**President-elect**  
+**_President-elect_**  
 *Sep. 2021 – March 2023*  
  - Made executive decisions, managed outreach to alumni, and hosted talks by industry professionals.
  - Brainstormed with club fund management and pitched ideas to best serve the student members professionally.
