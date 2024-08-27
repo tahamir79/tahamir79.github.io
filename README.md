@@ -110,12 +110,7 @@
 
 
 ## Tetris!
-<iframe src="https://codesandbox.io/embed/zqg3gf?view=preview&hidenavigation=1"
-     style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="fin (forked)"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
+[![Edit fin (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/fin-forked-zqg3gf?from-embed=&workspaceId=a9868a56-c9f0-46b5-b2df-b61913dd78a9)
 _tetris has stress-reduction effects [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7828932/)_
 
 
