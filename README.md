@@ -13,7 +13,7 @@
 
  
 ### Currently at College of Math and Statistics - Loyola University Chicago
-**_Graduate Researcher in Ai_**
+**_Graduate Researcher_**(full-time)
 
 *August 2023 – Dec 2024 (conferred)*
  -  Utilized Excel, R, and SAS to master machine learning models such as logistic models, permutation tests, and simulations like such as Monte Carlo.
