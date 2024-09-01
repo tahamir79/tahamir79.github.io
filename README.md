@@ -42,6 +42,14 @@
 *Sep 2021 – May 2022*
  - Designed data pipelines to display real time KPI's on dashboards that reduced operational costs by 1/3 (Campus Planning and Facility Management Office)
  - Digitized the screening process for University Owned artwork by reinventing the [geolocation](https://map.uoregon.edu/) system in collboration with the GIS office. (Safety and Risk Management Office)
+
+
+
+## Research Lab of Head of Finance Department, Professor John Chalmers
+**_Equity Research Analyst_**  
+*Nov. 2022 – March 2023*  
+ - Conducted statistical analysis using High-Performance computing to optimize algorithms in R programming language and held weekly meetings with Professors and Ph.D mentors.
+ - Bolstered the Nielsen demographic data with WARN data scraped from each of 52 states’ websites using Python and Excel.
  
 
 ## Data Services Division - University of Oregon Libraries
@@ -92,12 +100,6 @@
  - Shadowed corporate employees in Information Technology, Supply chain Operations to learn about facility management services.
  - Worked on a final project that involved gathering data, analyzing, and implementing to improve safety protocols at HVAC storage plant.
 
-
-## Research Lab of Head of Finance Department, Professor John Chalmers
-**_Equity Research Analyst_**  
-*Nov. 2022 – March 2023*  
- - Conducted statistical analysis using High-Performance computing to optimize algorithms in R programming language and held weekly meetings with Professors and Ph.D mentors.
- - Bolstered the Nielsen demographic data with WARN data scraped from each of 52 states’ websites using Python and Excel.
 
 
 ## Operations and Business Analytics Club (OBAC)
