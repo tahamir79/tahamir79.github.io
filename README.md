@@ -120,7 +120,9 @@
    ></iframe>
 _tetris has stress-reduction effects [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7828932/)_
 
-
+<a href="https://www.instagram.com/21fibonacci">
+  <img src="assets/img/Instagram_icon.png" alt="Instagram" width="35" height="35">
+</a>
 
 
 <div style="text-align: right;">
