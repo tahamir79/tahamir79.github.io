@@ -12,10 +12,10 @@
 - B.S., Operations & Business Analytics | University of Oregon (_March 23'_)
 
  
-### Currently at College of Math and Statistics - Loyola University Chicago
-**_Graduate Researcher_** (full-time)
+### Graduated from M.S in Applied Statistics - Loyola University Chicago
+**_Graduate Researcher Assistant_** (full-time)
 
-*August 2023 – Dec 2024 (conferred)*
+*August 2023 – Dec 2024*
  -  Utilized Excel, R, and SAS to master machine learning models such as logistic models, permutation tests, and simulations such as Monte Carlo.
  -  Conducted research on socio-demographic data from Chicago and created data art using data visualization techniques.
  -  Developed research models and completed pose estimation projects using Python programming language.
