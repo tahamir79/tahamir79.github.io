@@ -21,9 +21,17 @@
  -  Developed research models and completed pose estimation projects using Python programming language.
 
 
+### Current Research Paper in Collaboration with Dr. George T. (Head of CS Dept.)
+**_Virtual Gaze-Driven Keyboard_** (full-time)
+
+*paper in progress*
+ -  Developed a hands-free, webcam-based virtual keyboard using MediaPipe FaceMesh, Eye Aspect Ratio-based (EAR) blink detection, enabling text input through eye movement and blinks. Built with Next.js and React, the system features real-time iris tracking, keyboard boundary logic, and modular UI components tailored for accessibility and HCI research
+ 
+
 <a href="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" target="_blank">
   <img src="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" alt="CIT_minor_Certificate" width="275">
-</a>  
+</a>
+
 
 ## Computer Info Tech minor:
  - Covered key topics for six-courses such as information technology, web programming, web applications development, database systems, and networking fundamentals. Proficient in XHTML, CSS, JavaScript, XML, PHP, MySQL, data modeling, RESTful API's and network security principles.
