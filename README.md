@@ -1,5 +1,5 @@
 <a name="top"></a>
-# Data Scientist
+# Associate Data Consultant at Damlogics
 #### Technical Skills: R, Python, JavaScript, C++, SAS, PowerBI
 
 <a href="https://www.linkedin.com/in/mirghorbani-t/">
