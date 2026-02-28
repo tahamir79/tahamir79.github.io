@@ -22,7 +22,7 @@
 
 
 ### Current Research Paper in Collaboration with Dr. George T. (Head of CS Dept.)
-**_Virtual Gaze-Driven Keyboard_** (full-time)
+**_Virtual Gaze-Driven Keyboard_**
 
 *paper in progress*
  -  Developed a hands-free, webcam-based virtual keyboard using MediaPipe FaceMesh, Eye Aspect Ratio-based (EAR) blink detection, enabling text input through eye movement and blinks. Built with Next.js and React, the system features real-time iris tracking, keyboard boundary logic, and modular UI components tailored for accessibility and HCI research
