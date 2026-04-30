@@ -1,5 +1,5 @@
 <a name="top"></a>
-# Associate Data Consultant at Damlogics
+# Associate Data Consultant at [Damlogics](https://damlogics.com)
 #### Technical Skills: R, Python, JavaScript, C++, SAS, PowerBI
 
 <a href="https://www.linkedin.com/in/mirghorbani-t/">
@@ -24,8 +24,8 @@
 ### Current Research Paper in Collaboration with Dr. George T. (Head of CS Dept.)
 **_Virtual Gaze-Driven Keyboard_**
 
-*paper in progress*
- -  Developed a hands-free, webcam-based virtual keyboard using MediaPipe FaceMesh, Eye Aspect Ratio-based (EAR) blink detection, enabling text input through eye movement and blinks. Built with Next.js and React, the system features real-time iris tracking, keyboard boundary logic, and modular UI components tailored for accessibility and HCI research
+[Read My Paper](https://doi.org/10.6084/m9.figshare.31883932)
+-  Developed a hands-free, webcam-based virtual keyboard using MediaPipe FaceMesh, Eye Aspect Ratio-based (EAR) blink detection, enabling text input through eye movement and blinks. Built with Next.js and React, the system features real-time iris tracking, keyboard boundary logic, and modular UI components tailored for accessibility and HCI research
  
 
 <a href="assets/img/2442BA0F-3AEF-4A68-B5E6-5DB082BCFBAD.jpeg" target="_blank">
